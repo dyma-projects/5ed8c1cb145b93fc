@@ -14,7 +14,8 @@ import { UserListComponent } from './user-list/user-list.component';
   imports: [
     BrowserModule
   ],
-  providers: [],
+  providers: [
+  ],
   bootstrap: [AppComponent]
 })
 export class AppModule { }
